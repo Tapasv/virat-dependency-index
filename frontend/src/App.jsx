@@ -4,6 +4,7 @@ import DependencyScore from "./components/DependencyScore";
 import WinByRunsChart from "./components/WinByRunsChart";
 import WinByOverChart from "./components/WinByOverChart";
 import SeasonTrendChart from "./components/SeasonTrendChart";
+import "./App.css";
 
 const API = import.meta.env.VITE_API_URL || "http://localhost:8000";
 
@@ -14,7 +15,6 @@ export default function App() {
   const [seasonTrend, setSeasonTrend] = useState([]);
   const [loading, setLoading] = useState(true);
 
-  // ── Predict form state ───────────────────────────────────────────────────
   const [form, setForm] = useState({
     virat_runs: "",
     virat_balls: "",
@@ -71,45 +71,50 @@ export default function App() {
   };
 
   if (loading) return (
-    <div style={styles.loader}>
-      <div style={styles.loaderText}>🏏 Loading Virat Dependency Index...</div>
+    <div className="loader">
+      <div className="loader-text">🏏 Loading Virat Dependency Index...</div>
     </div>
   );
 
   return (
-    <div style={styles.page}>
+    <div>
       {/* ── Header ── */}
-      <div style={styles.header}>
-        <div style={styles.headerInner}>
-          <div style={styles.logo}>🏏</div>
+      <div className="header">
+        <div className="header-inner">
+          <div className="header-logo">🏏</div>
           <div>
-            <h1 style={styles.title}>Virat Dependency Index</h1>
-            <p style={styles.subtitle}>How much does RCB rely on Virat Kohli? — ML powered analysis (2008–2019)</p>
+            <h1 className="header-title">Virat Dependency Index</h1>
+            <p className="header-subtitle">
+              How much does RCB rely on Virat Kohli? — ML powered analysis (2008–2019)
+            </p>
           </div>
         </div>
       </div>
 
-      <div style={styles.container}>
+      <div className="container">
         {/* ── Dependency Score ── */}
         {dependencyData && <DependencyScore data={dependencyData} />}
 
         {/* ── Charts Grid ── */}
-        <div style={styles.grid}>
+        <div className="charts-grid">
           <WinByRunsChart data={winByRuns} />
           <WinByOverChart data={winByOver} />
         </div>
+
         <SeasonTrendChart data={seasonTrend} />
 
         {/* ── Predict Section ── */}
-        <div style={styles.predictCard}>
-          <h2 style={styles.cardTitle}>🎯 Live Match Predictor</h2>
-          <p style={styles.cardSubtitle}>Enter Virat's stats from any match and predict if RCB wins</p>
+        <div className="predict-card">
+          <h2 className="predict-title">🎯 Live Match Predictor</h2>
+          <p className="predict-subtitle">
+            Enter Virat's stats from any match and predict if RCB wins
+          </p>
 
-          <div style={styles.formGrid}>
-            <div style={styles.formGroup}>
-              <label style={styles.label}>Virat's Runs</label>
+          <div className="form-grid">
+            <div className="form-group">
+              <label className="form-label">Virat's Runs</label>
               <input
-                style={styles.input}
+                className="form-input"
                 type="number"
                 placeholder="e.g. 45"
                 value={form.virat_runs}
@@ -117,10 +122,10 @@ export default function App() {
               />
             </div>
 
-            <div style={styles.formGroup}>
-              <label style={styles.label}>Balls Faced</label>
+            <div className="form-group">
+              <label className="form-label">Balls Faced</label>
               <input
-                style={styles.input}
+                className="form-input"
                 type="number"
                 placeholder="e.g. 32"
                 value={form.virat_balls}
@@ -128,10 +133,10 @@ export default function App() {
               />
             </div>
 
-            <div style={styles.formGroup}>
-              <label style={styles.label}>Over He Got Out</label>
+            <div className="form-group">
+              <label className="form-label">Over He Got Out</label>
               <input
-                style={styles.input}
+                className="form-input"
                 type="number"
                 placeholder="e.g. 8 (25 = not out)"
                 value={form.virat_out_over}
@@ -139,10 +144,10 @@ export default function App() {
               />
             </div>
 
-            <div style={styles.formGroup}>
-              <label style={styles.label}>Was Virat Dismissed?</label>
+            <div className="form-group">
+              <label className="form-label">Was Virat Dismissed?</label>
               <select
-                style={styles.input}
+                className="form-input"
                 value={form.virat_dismissed}
                 onChange={e => setForm({ ...form, virat_dismissed: e.target.value })}
               >
@@ -151,10 +156,10 @@ export default function App() {
               </select>
             </div>
 
-            <div style={styles.formGroup}>
-              <label style={styles.label}>RCB Batting</label>
+            <div className="form-group">
+              <label className="form-label">RCB Batting</label>
               <select
-                style={styles.input}
+                className="form-input"
                 value={form.rcb_batting_first}
                 onChange={e => setForm({ ...form, rcb_batting_first: e.target.value })}
               >
@@ -163,10 +168,10 @@ export default function App() {
               </select>
             </div>
 
-            <div style={styles.formGroup}>
-              <label style={styles.label}>Opposition</label>
+            <div className="form-group">
+              <label className="form-label">Opposition</label>
               <select
-                style={styles.input}
+                className="form-input"
                 value={form.opposition}
                 onChange={e => setForm({ ...form, opposition: e.target.value })}
               >
@@ -178,7 +183,7 @@ export default function App() {
           </div>
 
           <button
-            style={predicting ? styles.btnDisabled : styles.btn}
+            className="predict-btn"
             onClick={handlePredict}
             disabled={predicting}
           >
@@ -186,12 +191,12 @@ export default function App() {
           </button>
 
           {prediction && (
-            <div style={{
-              ...styles.predictionResult,
-              borderColor: prediction.rcb_wins ? "#22c55e" : "#ef4444"
-            }}>
-              <div style={styles.predictionVerdict}>{prediction.verdict}</div>
-              <div style={styles.predictionProb}>
+            <div
+              className="prediction-result"
+              style={{ borderColor: prediction.rcb_wins ? "#22c55e" : "#ef4444" }}
+            >
+              <div className="prediction-verdict">{prediction.verdict}</div>
+              <div className="prediction-prob">
                 Win Probability: <strong>{prediction.win_probability}%</strong>
               </div>
             </div>
@@ -201,28 +206,3 @@ export default function App() {
     </div>
   );
 }
-
-const styles = {
-  page: { minHeight: "100vh", background: "#0f0f13", color: "#e2e8f0", fontFamily: "system-ui, sans-serif" },
-  loader: { minHeight: "100vh", display: "flex", alignItems: "center", justifyContent: "center", background: "#0f0f13" },
-  loaderText: { color: "#e2e8f0", fontSize: 20 },
-  header: { background: "#1a1a2e", borderBottom: "1px solid #2d2d44", padding: "20px 32px" },
-  headerInner: { maxWidth: 1100, margin: "0 auto", display: "flex", alignItems: "center", gap: 16 },
-  logo: { fontSize: 40 },
-  title: { margin: 0, fontSize: 28, fontWeight: 800, color: "#fff" },
-  subtitle: { margin: "4px 0 0", color: "#9ca3af", fontSize: 14 },
-  container: { maxWidth: 1100, margin: "0 auto", padding: "32px 24px", display: "flex", flexDirection: "column", gap: 28 },
-  grid: { display: "grid", gridTemplateColumns: "1fr 1fr", gap: 24 },
-  predictCard: { background: "#1a1a2e", border: "1px solid #2d2d44", borderRadius: 16, padding: 28 },
-  cardTitle: { margin: "0 0 6px", fontSize: 20, fontWeight: 700 },
-  cardSubtitle: { margin: "0 0 24px", color: "#9ca3af", fontSize: 14 },
-  formGrid: { display: "grid", gridTemplateColumns: "1fr 1fr 1fr", gap: 16, marginBottom: 20 },
-  formGroup: { display: "flex", flexDirection: "column", gap: 6 },
-  label: { fontSize: 12, color: "#9ca3af", textTransform: "uppercase", letterSpacing: "0.05em" },
-  input: { background: "#0f0f13", border: "1px solid #2d2d44", borderRadius: 8, padding: "10px 12px", color: "#e2e8f0", fontSize: 14, outline: "none" },
-  btn: { padding: "12px 28px", background: "linear-gradient(135deg, #dc2626, #b91c1c)", border: "none", borderRadius: 8, color: "#fff", fontSize: 15, fontWeight: 700, cursor: "pointer" },
-  btnDisabled: { padding: "12px 28px", background: "#374151", border: "none", borderRadius: 8, color: "#9ca3af", fontSize: 15, fontWeight: 700, cursor: "not-allowed" },
-  predictionResult: { marginTop: 20, background: "#0f0f13", border: "2px solid", borderRadius: 12, padding: 20, textAlign: "center" },
-  predictionVerdict: { fontSize: 22, fontWeight: 700, marginBottom: 8 },
-  predictionProb: { fontSize: 16, color: "#9ca3af" },
-};
