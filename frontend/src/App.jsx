@@ -4,7 +4,7 @@ import DependencyScore from "./components/DependencyScore";
 import WinByRunsChart from "./components/WinByRunsChart";
 import WinByOverChart from "./components/WinByOverChart";
 import SeasonTrendChart from "./components/SeasonTrendChart";
-import "./App.css";
+import "./index.css";
 
 const API = import.meta.env.VITE_API_URL || "http://localhost:8000";
 
