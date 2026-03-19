@@ -1,0 +1,181 @@
+match_id,season,team1,team2,toss_winner,toss_decision,winner,rcb_won,opposition,rcb_batting_first,virat_runs,virat_balls,virat_out_over,virat_dismissed,virat_strike_rate,virat_run_category
+1,2017,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,0,Sunrisers Hyderabad,0,0.0,0.0,25.0,0.0,0.0,0-10
+5,2017,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,1,Delhi Daredevils,1,0.0,0.0,25.0,0.0,0.0,0-10
+8,2017,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,Kings XI Punjab,0,Kings XI Punjab,1,0.0,0.0,25.0,0.0,0.0,0-10
+12,2017,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,0,Mumbai Indians,1,62.0,48.0,16.0,1.0,129.17,50+
+17,2017,Rising Pune Supergiant,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rising Pune Supergiant,0,Rising Pune Supergiant,0,28.0,19.0,6.0,1.0,147.37,11-30
+20,2017,Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,field,Royal Challengers Bangalore,1,Gujarat Lions,1,64.0,51.0,16.0,1.0,125.49,50+
+27,2017,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kolkata Knight Riders,0,Kolkata Knight Riders,0,0.0,1.0,1.0,1.0,0.0,0-10
+30,2017,Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,0,Gujarat Lions,1,10.0,14.0,4.0,1.0,71.43,0-10
+33,2017,Rising Pune Supergiant,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rising Pune Supergiant,0,Rising Pune Supergiant,0,55.0,48.0,18.0,1.0,114.58,50+
+37,2017,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,bat,Mumbai Indians,0,Mumbai Indians,1,20.0,15.0,6.0,1.0,133.33,11-30
+42,2017,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kings XI Punjab,0,Kings XI Punjab,0,6.0,6.0,3.0,1.0,100.0,0-10
+45,2017,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,0,Kolkata Knight Riders,1,5.0,9.0,3.0,1.0,55.56,0-10
+55,2017,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,1,Delhi Daredevils,1,58.0,46.0,17.0,1.0,126.09,50+
+60,2008,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kolkata Knight Riders,0,Kolkata Knight Riders,0,1.0,5.0,3.0,1.0,20.0,0-10
+63,2008,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Royal Challengers Bangalore,1,Mumbai Indians,0,23.0,15.0,14.0,1.0,153.33,11-30
+70,2008,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,0,Rajasthan Royals,1,13.0,16.0,10.0,1.0,81.25,11-30
+74,2008,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Chennai Super Kings,0,Chennai Super Kings,0,12.0,7.0,18.0,1.0,171.43,11-30
+76,2008,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Delhi Daredevils,0,Delhi Daredevils,0,1.0,1.0,25.0,0.0,100.0,0-10
+80,2008,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,bat,Royal Challengers Bangalore,1,Deccan Chargers,0,9.0,5.0,18.0,1.0,180.0,0-10
+84,2008,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,0,Kings XI Punjab,1,34.0,39.0,13.0,1.0,87.18,31-50
+88,2008,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Kolkata Knight Riders,0,Kolkata Knight Riders,0,0.0,0.0,25.0,0.0,0.0,0-10
+90,2008,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,0,Mumbai Indians,1,0.0,1.0,13.0,1.0,0.0,0-10
+94,2008,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,Kings XI Punjab,0,Kings XI Punjab,1,21.0,23.0,6.0,1.0,91.3,11-30
+101,2008,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rajasthan Royals,0,Rajasthan Royals,0,3.0,8.0,3.0,1.0,37.5,0-10
+104,2008,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,0,Delhi Daredevils,1,0.0,0.0,25.0,0.0,0.0,0-10
+107,2008,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,1,Chennai Super Kings,1,10.0,17.0,9.0,1.0,58.82,0-10
+111,2008,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,field,Royal Challengers Bangalore,1,Deccan Chargers,1,38.0,31.0,14.0,1.0,122.58,31-50
+119,2009,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,1,Rajasthan Royals,1,3.0,8.0,12.0,1.0,37.5,0-10
+122,2009,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Chennai Super Kings,0,Chennai Super Kings,0,11.0,14.0,11.0,1.0,78.57,11-30
+124,2009,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,bat,Deccan Chargers,0,Deccan Chargers,0,50.0,35.0,20.0,1.0,142.86,31-50
+127,2009,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,Kings XI Punjab,0,Kings XI Punjab,1,2.0,3.0,18.0,1.0,66.67,0-10
+129,2009,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,bat,Delhi Daredevils,0,Delhi Daredevils,1,22.0,24.0,20.0,1.0,91.67,11-30
+134,2009,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Royal Challengers Bangalore,1,Kolkata Knight Riders,0,19.0,12.0,16.0,1.0,158.33,11-30
+139,2009,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,1,Kings XI Punjab,1,16.0,14.0,19.0,1.0,114.29,11-30
+143,2009,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Royal Challengers Bangalore,1,Mumbai Indians,0,0.0,0.0,25.0,0.0,0.0,0-10
+148,2009,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,0,Rajasthan Royals,1,15.0,22.0,15.0,1.0,68.18,11-30
+153,2009,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Mumbai Indians,0,Mumbai Indians,0,20.0,24.0,7.0,1.0,83.33,11-30
+156,2009,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1,Kolkata Knight Riders,0,0.0,0.0,25.0,0.0,0.0,0-10
+159,2009,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Royal Challengers Bangalore,1,Chennai Super Kings,0,38.0,35.0,15.0,1.0,108.57,31-50
+167,2009,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,bat,Royal Challengers Bangalore,1,Delhi Daredevils,0,0.0,0.0,25.0,0.0,0.0,0-10
+171,2009,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,1,Deccan Chargers,1,19.0,9.0,25.0,0.0,211.11,11-30
+173,2009,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1,Chennai Super Kings,0,24.0,17.0,25.0,0.0,141.18,11-30
+174,2009,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Deccan Chargers,0,Deccan Chargers,0,7.0,8.0,15.0,1.0,87.5,0-10
+178,2010,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,0,Kolkata Knight Riders,1,2.0,5.0,6.0,1.0,40.0,0-10
+181,2010,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,bat,Royal Challengers Bangalore,1,Kings XI Punjab,0,16.0,13.0,25.0,0.0,123.08,11-30
+184,2010,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1,Rajasthan Royals,0,0.0,0.0,25.0,0.0,0.0,0-10
+188,2010,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Royal Challengers Bangalore,1,Mumbai Indians,0,17.0,12.0,25.0,0.0,141.67,11-30
+192,2010,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Royal Challengers Bangalore,1,Chennai Super Kings,1,24.0,16.0,16.0,1.0,150.0,11-30
+197,2010,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Delhi Daredevils,0,Delhi Daredevils,0,38.0,23.0,25.0,0.0,165.22,31-50
+202,2010,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,Chennai Super Kings,0,Chennai Super Kings,1,34.0,24.0,16.0,1.0,141.67,31-50
+205,2010,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,bat,Royal Challengers Bangalore,1,Kings XI Punjab,0,42.0,26.0,16.0,1.0,161.54,31-50
+209,2010,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,bat,Delhi Daredevils,0,Delhi Daredevils,0,13.0,11.0,18.0,1.0,118.18,11-30
+214,2010,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,0,Deccan Chargers,1,58.0,37.0,20.0,1.0,156.76,50+
+217,2010,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1,Kolkata Knight Riders,0,0.0,0.0,25.0,0.0,0.0,0-10
+220,2010,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Deccan Chargers,0,Deccan Chargers,0,3.0,4.0,16.0,1.0,75.0,0-10
+223,2010,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,Royal Challengers Bangalore,1,Rajasthan Royals,0,14.0,13.0,14.0,1.0,107.69,11-30
+226,2010,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Mumbai Indians,0,Mumbai Indians,0,37.0,24.0,19.0,1.0,154.17,31-50
+231,2010,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Mumbai Indians,0,Mumbai Indians,0,9.0,8.0,12.0,1.0,112.5,0-10
+233,2010,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,bat,Royal Challengers Bangalore,1,Deccan Chargers,0,0.0,0.0,25.0,0.0,0.0,0-10
+237,2011,Kochi Tuskers Kerala,Royal Challengers Bangalore,Kochi Tuskers Kerala,bat,Royal Challengers Bangalore,1,Kochi Tuskers Kerala,0,23.0,18.0,6.0,1.0,127.78,11-30
+242,2011,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,0,Mumbai Indians,1,12.0,19.0,5.0,1.0,63.16,11-30
+245,2011,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Deccan Chargers,0,Deccan Chargers,0,71.0,51.0,18.0,1.0,139.22,50+
+248,2011,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Chennai Super Kings,0,Chennai Super Kings,0,35.0,28.0,11.0,1.0,125.0,31-50
+258,2011,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1,Kolkata Knight Riders,0,30.0,24.0,25.0,0.0,125.0,11-30
+263,2011,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1,Delhi Daredevils,0,56.0,40.0,10.0,1.0,140.0,50+
+268,2011,Royal Challengers Bangalore,Pune Warriors,Pune Warriors,field,Royal Challengers Bangalore,1,Pune Warriors,1,67.0,43.0,19.0,1.0,155.81,50+
+280,2011,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,Royal Challengers Bangalore,1,Kings XI Punjab,1,27.0,32.0,15.0,1.0,84.38,11-30
+283,2011,Kochi Tuskers Kerala,Royal Challengers Bangalore,Kochi Tuskers Kerala,bat,Royal Challengers Bangalore,1,Kochi Tuskers Kerala,0,27.0,34.0,25.0,0.0,79.41,11-30
+288,2011,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1,Rajasthan Royals,0,39.0,35.0,25.0,0.0,111.43,31-50
+291,2011,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1,Kolkata Knight Riders,0,15.0,16.0,8.0,1.0,93.75,11-30
+296,2011,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,bat,Kings XI Punjab,0,Kings XI Punjab,0,11.0,12.0,4.0,1.0,91.67,11-30
+302,2011,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1,Chennai Super Kings,0,31.0,31.0,10.0,1.0,100.0,31-50
+304,2011,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,0,Chennai Super Kings,1,70.0,46.0,25.0,0.0,152.17,50+
+306,2011,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bangalore,1,Mumbai Indians,1,8.0,12.0,16.0,1.0,66.67,0-10
+307,2011,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Chennai Super Kings,0,Chennai Super Kings,0,35.0,32.0,10.0,1.0,109.38,31-50
+312,2012,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,Royal Challengers Bangalore,1,Delhi Daredevils,1,8.0,8.0,8.0,1.0,100.0,0-10
+317,2012,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kolkata Knight Riders,0,Kolkata Knight Riders,0,6.0,14.0,6.0,1.0,42.86,0-10
+320,2012,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,Chennai Super Kings,0,Chennai Super Kings,1,57.0,48.0,20.0,1.0,118.75,50+
+326,2012,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,Rajasthan Royals,0,Rajasthan Royals,0,22.0,18.0,11.0,1.0,122.22,11-30
+329,2012,Pune Warriors,Royal Challengers Bangalore,Pune Warriors,bat,Royal Challengers Bangalore,1,Pune Warriors,0,16.0,19.0,12.0,1.0,84.21,11-30
+333,2012,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1,Kings XI Punjab,0,4.0,4.0,2.0,1.0,100.0,0-10
+338,2012,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,Royal Challengers Bangalore,1,Rajasthan Royals,1,16.0,16.0,4.0,1.0,100.0,11-30
+344,2012,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Kolkata Knight Riders,0,Kolkata Knight Riders,0,18.0,19.0,6.0,1.0,94.74,11-30
+350,2012,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,0,Kings XI Punjab,1,45.0,42.0,17.0,1.0,107.14,31-50
+356,2012,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1,Deccan Chargers,0,9.0,9.0,14.0,1.0,100.0,0-10
+360,2012,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1,Mumbai Indians,0,36.0,27.0,25.0,0.0,133.33,31-50
+362,2012,Royal Challengers Bangalore,Pune Warriors,Pune Warriors,field,Royal Challengers Bangalore,1,Pune Warriors,1,9.0,12.0,12.0,1.0,75.0,0-10
+367,2012,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,0,Mumbai Indians,1,3.0,1.0,25.0,0.0,300.0,0-10
+372,2012,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,Royal Challengers Bangalore,1,Delhi Daredevils,1,73.0,55.0,25.0,0.0,132.73,50+
+376,2012,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Deccan Chargers,0,Deccan Chargers,0,42.0,41.0,16.0,1.0,102.44,31-50
+383,2013,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bangalore,1,Mumbai Indians,1,24.0,14.0,5.0,1.0,171.43,11-30
+388,2013,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,Sunrisers Hyderabad,0,Sunrisers Hyderabad,1,51.0,47.0,14.0,1.0,108.51,50+
+392,2013,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1,Kolkata Knight Riders,0,35.0,28.0,10.0,1.0,125.0,31-50
+396,2013,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,0,Chennai Super Kings,1,58.0,48.0,17.0,1.0,120.83,50+
+401,2013,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1,Delhi Daredevils,0,65.0,51.0,19.0,1.0,127.45,50+
+407,2013,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1,Rajasthan Royals,0,1.0,5.0,8.0,1.0,20.0,0-10
+411,2013,Royal Challengers Bangalore,Pune Warriors,Pune Warriors,field,Royal Challengers Bangalore,1,Pune Warriors,1,11.0,9.0,25.0,0.0,122.22,11-30
+417,2013,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Mumbai Indians,0,Mumbai Indians,0,1.0,4.0,8.0,1.0,25.0,0-10
+420,2013,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,0,Rajasthan Royals,1,32.0,35.0,16.0,1.0,91.43,31-50
+426,2013,Royal Challengers Bangalore,Pune Warriors,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,1,Pune Warriors,1,25.0,18.0,13.0,1.0,138.89,11-30
+429,2013,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,0,Kings XI Punjab,1,57.0,43.0,20.0,1.0,132.56,50+
+432,2013,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,Royal Challengers Bangalore,1,Sunrisers Hyderabad,0,93.0,51.0,25.0,0.0,182.35,50+
+438,2013,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,Royal Challengers Bangalore,1,Delhi Daredevils,1,99.0,59.0,25.0,0.0,167.8,50+
+441,2013,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,0,Kolkata Knight Riders,1,17.0,14.0,9.0,1.0,121.43,11-30
+448,2013,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,0,Kings XI Punjab,1,14.0,16.0,17.0,1.0,87.5,11-30
+452,2013,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Royal Challengers Bangalore,1,Chennai Super Kings,1,56.0,29.0,25.0,0.0,193.1,50+
+459,2014,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1,Delhi Daredevils,0,49.0,38.0,25.0,0.0,128.95,31-50
+462,2014,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1,Mumbai Indians,0,0.0,2.0,4.0,1.0,0.0,0-10
+468,2014,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kolkata Knight Riders,0,Kolkata Knight Riders,0,31.0,23.0,16.0,1.0,134.78,31-50
+471,2014,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,0,Rajasthan Royals,1,21.0,25.0,11.0,1.0,84.0,11-30
+475,2014,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,0,Kings XI Punjab,1,4.0,2.0,2.0,1.0,200.0,0-10
+481,2014,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1,Sunrisers Hyderabad,0,0.0,6.0,2.0,1.0,0.0,0-10
+484,2014,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Mumbai Indians,0,Mumbai Indians,0,35.0,28.0,14.0,1.0,125.0,31-50
+488,2014,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kings XI Punjab,0,Kings XI Punjab,0,0.0,1.0,3.0,1.0,0.0,0-10
+492,2014,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Rajasthan Royals,0,Rajasthan Royals,1,4.0,9.0,3.0,1.0,44.44,0-10
+495,2014,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,Royal Challengers Bangalore,1,Delhi Daredevils,1,10.0,11.0,25.0,0.0,90.91,0-10
+499,2014,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Royal Challengers Bangalore,1,Chennai Super Kings,0,27.0,29.0,15.0,1.0,93.1,11-30
+503,2014,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,Sunrisers Hyderabad,0,Sunrisers Hyderabad,1,67.0,43.0,18.0,1.0,155.81,50+
+506,2014,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kolkata Knight Riders,0,Kolkata Knight Riders,0,38.0,31.0,13.0,1.0,122.58,31-50
+510,2014,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,0,Chennai Super Kings,1,73.0,53.0,20.0,1.0,137.74,50+
+522,2015,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1,Kolkata Knight Riders,0,13.0,15.0,5.0,1.0,86.67,11-30
+525,2015,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,Sunrisers Hyderabad,1,41.0,42.0,12.0,1.0,97.62,31-50
+534,2015,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Mumbai Indians,0,Mumbai Indians,0,18.0,19.0,11.0,1.0,94.74,11-30
+538,2015,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Chennai Super Kings,0,Chennai Super Kings,0,51.0,43.0,17.0,1.0,118.6,50+
+540,2015,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1,Rajasthan Royals,0,62.0,46.0,25.0,0.0,134.78,50+
+543,2015,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1,Delhi Daredevils,0,35.0,23.0,25.0,0.0,152.17,31-50
+546,2015,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,,0,Rajasthan Royals,1,1.0,4.0,3.0,1.0,25.0,0-10
+550,2015,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1,Kolkata Knight Riders,0,34.0,20.0,8.0,1.0,170.0,31-50
+554,2015,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Chennai Super Kings,0,Chennai Super Kings,0,48.0,44.0,25.0,0.0,109.09,31-50
+557,2015,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,Royal Challengers Bangalore,1,Kings XI Punjab,1,32.0,31.0,12.0,1.0,103.23,31-50
+562,2015,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,1,Mumbai Indians,1,82.0,51.0,25.0,0.0,160.78,50+
+566,2015,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kings XI Punjab,0,Kings XI Punjab,0,19.0,9.0,3.0,1.0,211.11,11-30
+568,2015,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,Royal Challengers Bangalore,1,Sunrisers Hyderabad,0,44.0,19.0,25.0,0.0,231.58,31-50
+571,2015,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,,0,Delhi Daredevils,0,1.0,2.0,25.0,0.0,50.0,0-10
+574,2015,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,1,Rajasthan Royals,1,12.0,18.0,8.0,1.0,66.67,11-30
+575,2015,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,0,Chennai Super Kings,1,12.0,9.0,5.0,1.0,133.33,11-30
+580,2016,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bangalore,1,Sunrisers Hyderabad,1,75.0,51.0,16.0,1.0,147.06,50+
+587,2016,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,0,Delhi Daredevils,1,79.0,48.0,19.0,1.0,164.58,50+
+590,2016,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,0,Mumbai Indians,1,33.0,34.0,11.0,1.0,97.06,31-50
+592,2016,Royal Challengers Bangalore,Rising Pune Supergiants,Rising Pune Supergiants,field,Royal Challengers Bangalore,1,Rising Pune Supergiants,1,80.0,70.0,20.0,1.0,114.29,50+
+595,2016,Royal Challengers Bangalore,Gujarat Lions,Royal Challengers Bangalore,bat,Gujarat Lions,0,Gujarat Lions,1,100.0,64.0,25.0,0.0,156.25,50+
+603,2016,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,0,Sunrisers Hyderabad,0,14.0,17.0,6.0,1.0,82.35,11-30
+606,2016,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,0,Kolkata Knight Riders,1,52.0,44.0,17.0,1.0,118.18,50+
+611,2016,Rising Pune Supergiants,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1,Rising Pune Supergiants,0,108.0,58.0,25.0,0.0,186.21,50+
+615,2016,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,Royal Challengers Bangalore,1,Kings XI Punjab,1,20.0,21.0,8.0,1.0,95.24,11-30
+617,2016,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,0,Mumbai Indians,1,7.0,8.0,2.0,1.0,87.5,0-10
+620,2016,Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,field,Royal Challengers Bangalore,1,Gujarat Lions,1,109.0,55.0,20.0,1.0,198.18,50+
+624,2016,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1,Kolkata Knight Riders,0,75.0,51.0,25.0,0.0,147.06,50+
+626,2016,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,Royal Challengers Bangalore,1,Kings XI Punjab,1,113.0,51.0,14.0,1.0,221.57,50+
+632,2016,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1,Delhi Daredevils,0,54.0,45.0,25.0,0.0,120.0,50+
+633,2016,Gujarat Lions,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1,Gujarat Lions,0,0.0,2.0,2.0,1.0,0.0,0-10
+636,2016,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,0,Sunrisers Hyderabad,0,54.0,36.0,13.0,1.0,150.0,50+
+7896,2018,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,0,Kolkata Knight Riders,1,31.0,33.0,15.0,1.0,93.94,31-50
+7901,2018,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1,Kings XI Punjab,0,21.0,16.0,5.0,1.0,131.25,11-30
+7904,2018,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rajasthan Royals,0,Rajasthan Royals,0,58.0,31.0,11.0,1.0,187.1,50+
+7907,2018,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Mumbai Indians,0,Mumbai Indians,0,93.0,62.0,25.0,0.0,150.0,50+
+7912,2018,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1,Delhi Daredevils,0,30.0,26.0,11.0,1.0,115.38,11-30
+7917,2018,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,0,Chennai Super Kings,1,18.0,15.0,5.0,1.0,120.0,11-30
+7922,2018,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,0,Kolkata Knight Riders,1,69.0,44.0,25.0,0.0,156.82,50+
+7924,2018,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bangalore,1,Mumbai Indians,1,32.0,26.0,18.0,1.0,123.08,31-50
+7928,2018,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,0,Chennai Super Kings,1,9.0,11.0,7.0,1.0,81.82,0-10
+7932,2018,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,0,Sunrisers Hyderabad,0,39.0,30.0,10.0,1.0,130.0,31-50
+7938,2018,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1,Delhi Daredevils,0,72.0,42.0,14.0,1.0,171.43,50+
+7941,2018,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1,Kings XI Punjab,0,51.0,29.0,25.0,0.0,175.86,50+
+7944,2018,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bangalore,1,Sunrisers Hyderabad,1,12.0,11.0,5.0,1.0,109.09,11-30
+7946,2018,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,Rajasthan Royals,0,Rajasthan Royals,0,4.0,9.0,3.0,1.0,44.44,0-10
+11137,2019,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,0,Chennai Super Kings,1,7.0,12.0,4.0,1.0,58.33,0-10
+11143,2019,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Mumbai Indians,0,Mumbai Indians,0,47.0,33.0,14.0,1.0,142.42,31-50
+11147,2019,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,0,Sunrisers Hyderabad,0,3.0,10.0,7.0,1.0,30.0,0-10
+11150,2019,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,0,Rajasthan Royals,1,25.0,26.0,7.0,1.0,96.15,11-30
+11153,2019,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,0,Kolkata Knight Riders,1,84.0,49.0,18.0,1.0,171.43,50+
+11311,2019,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,0,Delhi Capitals,1,42.0,33.0,18.0,1.0,127.27,31-50
+11319,2019,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1,Kings XI Punjab,0,68.0,54.0,16.0,1.0,125.93,50+
+11322,2019,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,0,Mumbai Indians,1,9.0,10.0,3.0,1.0,90.0,0-10
+11326,2019,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Royal Challengers Bangalore,1,Kolkata Knight Riders,1,100.0,58.0,20.0,1.0,172.41,50+
+11330,2019,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Royal Challengers Bangalore,1,Chennai Super Kings,1,9.0,8.0,3.0,1.0,112.5,0-10
+11333,2019,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,Royal Challengers Bangalore,1,Kings XI Punjab,1,13.0,8.0,4.0,1.0,162.5,11-30
+11337,2019,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,Delhi Capitals,0,Delhi Capitals,0,24.0,17.0,8.0,1.0,141.18,11-30
+11340,2019,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,,0,Rajasthan Royals,1,25.0,7.0,2.0,1.0,357.14,11-30
+11345,2019,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1,Sunrisers Hyderabad,0,16.0,7.0,2.0,1.0,228.57,11-30

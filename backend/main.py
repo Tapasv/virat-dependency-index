@@ -18,7 +18,7 @@ app.add_middleware(
 
 # ── Load model and data once at startup ───────────────────────────────────────
 model = joblib.load("virat_model.pkl")
-df = pd.read_csv("/data/rcb_virat_data.csv")
+df = pd.read_csv("rcb_virat_data.csv")
 
 # ── Input schema ──────────────────────────────────────────────────────────────
 class PredictInput(BaseModel):
