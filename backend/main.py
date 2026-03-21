@@ -35,6 +35,10 @@ class PredictInput(BaseModel):
 def root():
     return {"status": "Virat Dependency Index API is running 🏏"}
 
+@app.get("/health")
+def health():
+    return {"status": "ok"}
+
 
 # ── 2. Predict win probability ────────────────────────────────────────────────
 @app.post("/predict")
