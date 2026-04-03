@@ -35,7 +35,7 @@ class PredictInput(BaseModel):
 def root():
     return {"status": "Virat Dependency Index API is running 🏏"}
 
-@app.get("/health")
+@app.api_route("/health", methods=["GET", "HEAD"])
 def health():
     return {"status": "ok"}
 
